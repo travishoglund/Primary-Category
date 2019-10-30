@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit();
 }
 
-define( 'TH_PRIMARY_CATEGORY_DEBUG', true );
+define( 'TH_PRIMARY_CATEGORY_DEBUG', false );
 define( 'TH_PRIMARY_CATEGORY_VERSION', '1.0' );
 define( 'TH_PRIMARY_CATEGORY_DOMAIN', 'primary-category' );
 define( 'TH_PRIMARY_CATEGORY_PATH', plugin_dir_path( __FILE__ ) );
