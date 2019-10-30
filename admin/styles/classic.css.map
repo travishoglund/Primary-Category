@@ -1,9 +1,9 @@
 {
-  "version": 3,
-  "file": "classic.css",
-  "sources": [
-    "classic.scss"
-  ],
-  "names": [],
-  "mappings": "AACG,AAAD,oCAAS,CAAC;EACR,KAAK,EAAE,IAAI,GACZ"
+	"version": 3,
+	"file": "classic.css",
+	"sources": [
+		"classic.scss"
+	],
+	"names": [],
+	"mappings": "AACG,AAAD,oCAAS,CAAC;EACR,KAAK,EAAE,IAAI,GACZ"
 }
